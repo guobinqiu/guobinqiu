@@ -2,10 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=guobinqiu" />
 
-Wechat: `qiuguobin406302`
-
-Email: `qracle@126.com/qracle0@gmail.com`
-
 I'm looking for a job now
 
 希望好心人推荐我工作🙏
+
+Wechat: `qiuguobin406302`
+
+Email: `qracle@126.com/qracle0@gmail.com`
