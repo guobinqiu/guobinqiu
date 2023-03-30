@@ -1,7 +1,5 @@
 ### Hi, I'm Guobin. Nice to see you here!
 
-I'm looking for a new job now
-
 Wechat: `qiuguobin406302`
 
 Email: `qracle@126.com | qracle0@gmail.com`
