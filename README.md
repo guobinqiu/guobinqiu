@@ -1,10 +1,4 @@
-年月把拥有变做失去
-
-疲倦的双眼带着期望
-
-一生经过彷徨的挣扎
-
-自信可改变未来
+孤舟蓑笠翁,独钓寒江雪
 
 <p float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
