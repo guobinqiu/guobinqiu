@@ -1,7 +1,7 @@
-身处低谷不自弃， 我命由我不由天。
-无人扶我青云志， 我自踏雪至山巅。
-若是命中无此运， 亦可孤身登昆仑。
-苦厄难夺凌云志， 不死终有出头日。
+<div>身处低谷不自弃， 我命由我不由天。</div>
+<div>无人扶我青云志， 我自踏雪至山巅。</div>
+<div>若是命中无此运， 亦可孤身登昆仑。</div>
+<div>苦厄难夺凌云志， 不死终有出头日。</div>
 
 <p float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
